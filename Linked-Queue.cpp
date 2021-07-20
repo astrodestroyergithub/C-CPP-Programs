@@ -51,5 +51,5 @@ void dequeue()
 
 int main()
 {
-	
+	return 0;
 }
